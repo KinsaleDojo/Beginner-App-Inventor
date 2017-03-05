@@ -11,5 +11,6 @@
   Change the text in the **Text** box to your question. I'm going to go with "What breed is the world's largest dog?" but you can pick any question you like related to what you're writing your quiz about. Maybe ask what the first song a band released was, or the score in the last World Cup final!
 4. Of course, what good is a question if the player doesn't have a chance to answer? Now it's time for you to add a few! Drag four **Buttons** from the **Palette** into the **Viewer**, then select each of them and change the **Text** in the **Properties** section so that one of them is the right answer and the other three are wrong answers. Be as tricky, or as funny, as you like with them!
 5. What you end up with should look a little like this:
-![](/assets/qn1.png)
+
+  ![](/assets/qn1.png)
 It's a Great Dane, by the way! Check him out: [dojo.soy/big-dog](http://dojo.soy/big-dog)
