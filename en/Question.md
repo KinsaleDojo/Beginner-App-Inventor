@@ -6,3 +6,4 @@
   
   There are other buttons and even another view, but this is all you'll be using right now.
 2. First, drag a **Label** component into the viewer to use for your question.![](/assets/Label.png)
+3. To make this **Label** have the question you want to ask in it first select it by clicking on it, either in the **Viewer** or the **Components** section. Now, in the **Properties** section, look for **Text** (you may have to scroll down)![](/assets/Properties-text.png)
