@@ -6,5 +6,7 @@
 5. Right! Now you're all set to go! Time to create your first Android app!
 6. Go back to App Inventor in your browser and click on the "Start new project" button, at the top left of the screen.
 ![](/assets/Start new project.png)
-7. 
-
+7. Call your project "MyQuizApp" and click "OK"
+![](/assets/Project name.png)
+8. You'll see a screen like this one, and you're ready to get coding!
+![](/assets/Start screen.png)
