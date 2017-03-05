@@ -1,5 +1,6 @@
 #Summary
 
-* [Getting Setup](README.md)
+* [About this series](README.md)
+* [Getting setup](Getting setup.md)
 
 
