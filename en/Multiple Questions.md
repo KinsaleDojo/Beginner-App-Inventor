@@ -16,4 +16,4 @@
   ![](/assets/next screen wrong.png)
 
 8. You should now be able to go to the **Connect** menu and choose the emulator or other connection device you set up for testing your apps (you might need a mentor's help here!) and see how your code works right now!   
-9. By creating more screens, and adding these same kinds of blocks that point to the next screen each time, you can create an endless number of questions, and keep score throughout! Go make 
+9. By creating more screens, and adding these same kinds of blocks that point to the next screen each time, you can create an endless number of questions, and keep score throughout! Go make one or two more question screens following the steps on this card.
