@@ -5,6 +5,7 @@
 * [Creating a question](Question.md)
 * [Checking answers](Answers.md)
 * [Multiple questions](Multiple questions.md)
+* [Final score](Displaying score.md)
 * [What's next?](Next.md)
 
 
