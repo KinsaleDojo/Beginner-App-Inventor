@@ -17,4 +17,4 @@
 7. Finally, update the text value to "score" and the number to 1, like this:
   
   ![](/assets/score vals.png)
-  What you've done is stored the value **1** (as in one point for a right answer) under the label "score" in the **TinyDB** database. You can pull it back out and change it on later screens. This way, you can keep score throughout the app!
+  What you've done is stored the value **1** (as in one point for a right answer) under the label "score" in the **TinyDB** database. You can pull it back out and change it on later screens. This way, you can keep score throughout the app, no matter how many questions you add!
