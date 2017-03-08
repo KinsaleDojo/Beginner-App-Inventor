@@ -5,5 +5,4 @@
 5. Great! But how do players get from **Screen1** to **Screen2**? You need to go back to **Screen1** and give them a way! To switch screens click on the **Screen2** button and pick **Screen1** from the drop-down menu.![](/assets/switch screens.png)
 6. Now, from the **Built-in** blocks, take the `open another screen screenName` **Control** block and a **Text** block and add them below the score code, like this (if you've changed your screen name, you'll need to use that where I've used "Screen2"):![](/assets/next screen right.png)
 7. Of course, that only works if **Button1** is clicked. You need to add a simpler block for all the other buttons (the wrong answers) like this:![](/assets/next screen wrong.png)
-
 8. By creating more screens, and adding these same kinds of blocks that point to the next screen each time, you can create an endless number of questions, and keep score throughout! Go make one or two more question screens following the steps on this card.
