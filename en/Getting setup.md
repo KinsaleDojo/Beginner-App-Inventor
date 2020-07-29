@@ -1,6 +1,6 @@
 1. Before you can do anything, you're going to need an account on the App Inventor website. Go to [dojo.soy/appinv-start ](http://dojo.soy/appinv-start)and then click on the "Create apps!" button at the top-right of the screen.
 
-![](https://coderdojokinsale.com/wp-content/uploads/2020/07/all-app-1.png)
+    ![](https://coderdojokinsale.com/wp-content/uploads/2020/07/all-app-1.png)
 
 2. The website will ask you to sign in with a Google account. If you don't have one, you'll need to create one or use your parent/guardian's account.
 3. Once you have signed in with a Google account, App Inventor will show you options to either setup an Android device (a phone or tablet) or an emulator (a fake, simulated, Android device) on your computer.
